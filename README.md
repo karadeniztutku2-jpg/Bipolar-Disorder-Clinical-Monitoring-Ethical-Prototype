@@ -131,3 +131,23 @@ Use of this prototype is at the viewer’s discretion.
 This project represents an exploration of **responsible digital health design**, created with particular care for the sensitivity of mental health contexts.
 
 Sometimes, knowing **what not to build yet** is as important as knowing what to build.
+
+
+
+
+
+## 📦 Release Assets & Prototype Media
+
+All demonstration media, including the full prototype walkthrough video, is published via **GitHub Releases** to ensure file integrity, versioning clarity, and long-term accessibility.
+
+🔗 **Access the official release assets:**
+[https://github.com/karadeniztutku2-jpg/Bipolar-Disorder-Clinical-Monitoring-Ethical-Prototype/releases](https://github.com/karadeniztutku2-jpg/Bipolar-Disorder-Clinical-Monitoring-Ethical-Prototype/releases)
+
+### Included in Release v1.0
+
+* 🎥 *Prototype Walkthrough Video* (`Filmim.2.mp4`)
+* 🔐 SHA-256 checksum provided for integrity verification
+* 📌 Immutable archival reference for evaluators and reviewers
+
+This approach follows open-source and research best practices by separating executable or media artifacts from source documentation, while maintaining transparent traceability.
+
